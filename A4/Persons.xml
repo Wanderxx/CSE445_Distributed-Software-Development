@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Persons.xsl"?>
+<Persons  
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://venus.eas.asu.edu/WSRepository/xml/bookstore.xsd">
+
+<!--person1 -->    
+￼ <Person>
+     <Name>
+     	  <First>Sunny</First>
+     	  <Last>Wang</Last>
+     </Name> 
+     <Credential>
+     	  <Id>Swang</Id>
+     	  <Password Encryption="Yes">xyz</Password> 
+     </Credential>
+     <Phone>
+     	  <Work>4807035793</Work>
+     	  <Cell Provider="TMobile">4807035793</Cell> 
+     </Phone>	
+     <Category>Friend</Category>
+  </Person>   
+  
+<!--person2 -->    
+￼ <Person>
+     <Name>
+     	  <First>John</First>
+     	  <Last>Doe</Last>
+     </Name> 
+     <Credential>
+     	  <Id>hdoe</Id>
+     	  <Password Encryption="Yes">xyz</Password> 
+     </Credential>
+     <Phone>
+     	  <Work>4809650000</Work>
+     	  <Cell Provider="TMobile">4801234567</Cell> 
+     </Phone>	
+     <Category>Work</Category>
+  </Person>
+
+<!--person3 -->    
+￼ <Person>
+     <Name>
+     	  <First>Yifei</First>
+     	  <Last>Chen</Last>
+     </Name> 
+     <Credential>
+     	  <Id>ychen</Id>
+     	  <Password Encryption="Yes">xyz</Password> 
+     </Credential>
+     <Phone>
+     	  <Work>4804447777</Work>
+     	  <Cell Provider="TMobile">4803332882</Cell> 
+     </Phone>	
+     <Category>Friend</Category>
+  </Person>
+
+<!--person4 -->    
+￼ <Person>
+     <Name>
+     	  <First>Yjun</First>
+     	  <Last>Wang</Last>
+     </Name> 
+     <Credential>
+     	  <Id>ywang</Id>
+     	  <Password Encryption="Yes">xyz</Password> 
+     </Credential>
+     <Phone>
+     	  <Work>6023339876</Work>
+     	  <Cell>6027035793</Cell> 
+     </Phone>	
+     <Category>Family</Category>
+  </Person>
+
+<!--person5 -->    
+￼ <Person>
+     <Name>
+     	  <First>Max</First>
+     	  <Last>Ruiz</Last>
+     </Name> 
+     <Credential>
+     	  <Id>mruiz</Id>
+     	  <Password Encryption="Yes">xyz</Password> 
+     </Credential>
+     <Phone>
+     	  <Work>4804759834</Work>
+     	  <Cell>48073456900</Cell> 
+     </Phone>	
+     <Category>Friend</Category>
+  </Person>
+
+</Persons>

@@ -1,0 +1,20 @@
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\bin\Debug\tempatureconvertApp.exe.config
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\bin\Debug\tempatureconvertApp.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\bin\Debug\tempatureconvertApp.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\obj\x86\Debug\tempatureconvertApp.Form1.resources
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\obj\x86\Debug\tempatureconvertApp.Properties.Resources.resources
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\obj\x86\Debug\tempatureconvertApp.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\tempatureconvertApp\obj\x86\Debug\tempatureconvertApp.pdb
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\bin\Debug\tempatureconvertApp.exe.config
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\bin\Debug\tempatureconvertApp.exe
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\bin\Debug\tempatureconvertApp.pdb
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\obj\x86\Debug\tempatureconvertApp.Form1.resources
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\obj\x86\Debug\tempatureconvertApp.Properties.Resources.resources
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\obj\x86\Debug\tempatureconvertApp.exe
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\tempatureconvertApp\obj\x86\Debug\tempatureconvertApp.pdb

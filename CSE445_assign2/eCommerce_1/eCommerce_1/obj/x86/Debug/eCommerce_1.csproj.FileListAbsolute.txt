@@ -1,0 +1,12 @@
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\eCommerce_1\eCommerce_1\bin\Debug\eCommerce_1.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\eCommerce_1\eCommerce_1\bin\Debug\eCommerce_1.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\eCommerce_1\eCommerce_1\obj\x86\Debug\eCommerce_1.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\eCommerce_1\eCommerce_1\obj\x86\Debug\eCommerce_1.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\eCommerce_1\eCommerce_1\bin\Debug\eCommerce_1.exe.config
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\eCommerce_1\eCommerce_1\obj\x86\Debug\eCommerce_1.csprojResolveAssemblyReference.cache
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign2\eCommerce_1\eCommerce_1\bin\Debug\eCommerce_1.exe.config
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign2\eCommerce_1\eCommerce_1\obj\x86\Debug\eCommerce_1.exe
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign2\eCommerce_1\eCommerce_1\obj\x86\Debug\eCommerce_1.pdb
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign2\eCommerce_1\eCommerce_1\bin\Debug\eCommerce_1.exe
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign2\eCommerce_1\eCommerce_1\bin\Debug\eCommerce_1.pdb
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign2\eCommerce_1\eCommerce_1\obj\x86\Debug\eCommerce_1.csprojResolveAssemblyReference.cache

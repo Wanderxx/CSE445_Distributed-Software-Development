@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace= "/" 
+            xmlns:ps ="Persons.xsd"
+            elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <xsd:element name="Persons">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Person" minOccurs="1" maxOccurs="unbounded"/>
+      </xsd:sequence> 
+    </xsd:complexType>
+  </xsd:element> 
+
+  <xsd:element name="Person">
+   <xsd:complexType> 
+   	  <xsd:sequence>
+         <xsd:element name="Name"  minOccurs="1" maxOccurs="1"/> 
+         <xsd:element name="Credential"  minOccurs="1" maxOccurs="unbounded"/> 
+         <xsd:element name="Phone"  minOccurs="0" maxOccurs="1"/>
+         <xsd:element name="Category" type="xsd:string" minOccurs="0" maxOccurs="1"/>   
+       </xsd:sequence> 
+   </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="Name">
+  	<xsd:complexType>
+  		<xsd:sequence>
+           <xsd:element name=“First" type="xsd:string"/>
+           <xsd:element name=“Last" type="xsd:string"/>
+        </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element> 
+
+  <xsd:element name="Credential">
+  	<xsd:complexType>
+  		<xsd:sequence>
+           <xsd:element name=“ID" type="xsd:string"/>
+           <xsd:element name=“Password" type="xsd:string" >
+             <xsd:attribute name="Encryption" type="xsd:string" use="required" default="Yes"/>
+           </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="Phone">
+  	<xsd:complexType>
+  		<xsd:sequence>
+           <xsd:element name=“Work" type="xsd:int"/>
+           <xsd:element name=“Cell" type="xsd:int">
+           	<xsd:attribute name="Provider" type="xsd:string" use="optional"/>
+           </xsd:element>>	
+        </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>  
+
+</xsd:schema>

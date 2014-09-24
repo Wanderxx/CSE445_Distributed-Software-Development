@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q4WCF", "Q4WCF\Q4WCF.csproj", "{73D36C7B-5D00-41CD-8900-9E69B0D9CB4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5WEB", "Q5WEB\Q5WEB.csproj", "{D76DCB63-E273-4647-96EF-334EED4590CC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{73D36C7B-5D00-41CD-8900-9E69B0D9CB4B} = {73D36C7B-5D00-41CD-8900-9E69B0D9CB4B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D36C7B-5D00-41CD-8900-9E69B0D9CB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D36C7B-5D00-41CD-8900-9E69B0D9CB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D36C7B-5D00-41CD-8900-9E69B0D9CB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D36C7B-5D00-41CD-8900-9E69B0D9CB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76DCB63-E273-4647-96EF-334EED4590CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76DCB63-E273-4647-96EF-334EED4590CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76DCB63-E273-4647-96EF-334EED4590CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76DCB63-E273-4647-96EF-334EED4590CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

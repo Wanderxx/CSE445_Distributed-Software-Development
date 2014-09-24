@@ -1,0 +1,5 @@
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q5WEB\bin\Q5WEB.dll
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q5WEB\bin\Q5WEB.pdb
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q5WEB\obj\Debug\Q5WEB.csprojResolveAssemblyReference.cache
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q5WEB\obj\Debug\Q5WEB.dll
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q5WEB\obj\Debug\Q5WEB.pdb

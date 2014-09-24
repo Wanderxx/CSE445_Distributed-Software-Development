@@ -1,0 +1,5 @@
+C:\Users\wxx\Documents\Visual Studio 2012\Projects\CSE445Assign3part2 (2)\part2Service\bin\part2Service.dll
+C:\Users\wxx\Documents\Visual Studio 2012\Projects\CSE445Assign3part2 (2)\part2Service\bin\part2Service.pdb
+C:\Users\wxx\Documents\Visual Studio 2012\Projects\CSE445Assign3part2 (2)\part2Service\obj\Debug\part2Service.csprojResolveAssemblyReference.cache
+C:\Users\wxx\Documents\Visual Studio 2012\Projects\CSE445Assign3part2 (2)\part2Service\obj\Debug\part2Service.dll
+C:\Users\wxx\Documents\Visual Studio 2012\Projects\CSE445Assign3part2 (2)\part2Service\obj\Debug\part2Service.pdb

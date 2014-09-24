@@ -1,0 +1,15 @@
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\TestWCFServiceConsoleApp\bin\Debug\TestWCFServiceConsoleApp.exe.config
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\TestWCFServiceConsoleApp\bin\Debug\TestWCFServiceConsoleApp.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\TestWCFServiceConsoleApp\bin\Debug\TestWCFServiceConsoleApp.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\TestWCFServiceConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\TestWCFServiceConsoleApp\obj\x86\Debug\TestWCFServiceConsoleApp.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\WCFService1\TestWCFServiceConsoleApp\obj\x86\Debug\TestWCFServiceConsoleApp.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part1234\TestWCFServiceConsoleApp\bin\Debug\TestWCFServiceConsoleApp.exe.config
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part1234\TestWCFServiceConsoleApp\obj\x86\Debug\TestWCFServiceConsoleApp.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part1234\TestWCFServiceConsoleApp\obj\x86\Debug\TestWCFServiceConsoleApp.pdb
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\TestWCFServiceConsoleApp\bin\Debug\TestWCFServiceConsoleApp.exe.config
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\TestWCFServiceConsoleApp\obj\x86\Debug\TestWCFServiceConsoleApp.exe
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\TestWCFServiceConsoleApp\obj\x86\Debug\TestWCFServiceConsoleApp.pdb
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\TestWCFServiceConsoleApp\bin\Debug\TestWCFServiceConsoleApp.exe
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\TestWCFServiceConsoleApp\bin\Debug\TestWCFServiceConsoleApp.pdb
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part1234\TestWCFServiceConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache

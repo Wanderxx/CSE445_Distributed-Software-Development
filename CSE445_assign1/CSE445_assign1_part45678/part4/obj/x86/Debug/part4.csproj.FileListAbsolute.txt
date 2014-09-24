@@ -1,0 +1,38 @@
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\bin\Debug\part4.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\bin\Debug\part4.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\obj\x86\Debug\part4.Form1.resources
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\obj\x86\Debug\part4.Properties.Resources.resources
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\obj\x86\Debug\part4.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\obj\x86\Debug\part4.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\part4\part4\bin\Debug\part4.exe.config
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\bin\Debug\part4.exe.config
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\bin\Debug\part4.exe
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\bin\Debug\part4.pdb
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.Form1.resources
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.Properties.Resources.resources
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wxx\Documents\Visual Studio 2010\Projects\CSE445_assign1_part45678\part4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\bin\Debug\part4.exe.config
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.exe
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.pdb
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\bin\Debug\part4.exe
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\bin\Debug\part4.pdb
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.Form1.resources
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.Properties.Resources.resources
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wxx\Desktop\学习\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\bin\Debug\part4.exe.config
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.exe
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.pdb
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\bin\Debug\part4.exe
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\bin\Debug\part4.pdb
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.Form1.resources
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.Properties.Resources.resources
+C:\Users\wxx\Desktop\STUDY\CSE445\CSE445_assign1\CSE445_assign1_part45678\part4\obj\x86\Debug\part4.csproj.GenerateResource.Cache

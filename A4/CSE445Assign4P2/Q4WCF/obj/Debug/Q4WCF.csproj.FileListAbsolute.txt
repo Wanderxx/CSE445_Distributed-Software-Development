@@ -1,0 +1,5 @@
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q4WCF\obj\Debug\Q4WCF.csprojResolveAssemblyReference.cache
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q4WCF\bin\Q4WCF.dll
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q4WCF\bin\Q4WCF.pdb
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q4WCF\obj\Debug\Q4WCF.dll
+c:\users\wanderxx\documents\visual studio 2012\Projects\CSE445Assign4P2\Q4WCF\obj\Debug\Q4WCF.pdb
